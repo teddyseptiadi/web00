@@ -19,31 +19,26 @@ fixtures = ["Contact Us Settings", "Web Form"]
 
 website_context = {
 	"repo": "frappe/frappe_io",
-	'logo_image_url': '/assets/frappe_io/images/frappe-logo.png',
-	'brand_html': 'Frappe',
-	'brand_name': 'Frappe',
+	'logo_image_url': '/assets/frappe_io/images/umis-logo.png',
+	'brand_html': 'UMIS',
+	'brand_name': 'UMIS',
 	"top_bar_items": [
-		{"label": "Products", "right": 1, "child_items": [
-			{"label": "ERPNext", "url":"/erpnext"},
-			{"label": "Frappe Framework", "url":"/frappe"},
-			{"label": "Gantt", "url":"/gantt"},
-			{"label": "Charts", "url":"/charts"},
-			{"label": "DataTable", "url":"/datatable"},
-			{"label": "FrappeJS", "url":"/frappejs"},
-			{"label": "Accounting", "url":"/accounting"},
-			{"label": "Marketplace", "url":"/marketplace"},
-			{"label": "Bench", "url":"/bench"},
-		]},
-		{"label": "About", "right": 1, "child_items": [
-			{"label": "Team", "url":"/about"},
-			{"label": "Careers", "url":"/careers"},
-			{"label": "Inspiration", "url":"/inspiration"},
-			{"label": "Story", "url":"/story"},
-			{"label": "Contact", "url":"/about#contact"},
-		]},
+			{"label": "Home", "url":"/", "right": 1},
+			{"label": "About", "url":"/company", "right": 1},		
+			{"label": "Services", "right": 1, "child_items": [
+			{"label": "IT Managed", "url":"/it-managed"},
+			{"label": "Web Development", "url":"/web-development"},
+			{"label": "ERP Solutions", "url":"/erp-solution"},
+			{"label": "Cloud Solution", "url":"/cloud-solutions"},
+			{"label": "Infrastructure", "url":"/infrastructure"},
+			{"label": "Marketing", "url":"/marketing"},
+					]},
+		{"label": "Harga", "url":"/harga", "right": 1},
 		{"label": "Blog", "url":"/blog", "right": 1},
+		{"label": "Contact", "url":"/about#contact", "right": 1},
 	],
-	"favicon": '/assets/frappe_io/images/frappe-logo.png',
+
+	"favicon": '/assets/frappe_io/images/umis-logo.png',
 	"hide_login": 1
 }
 

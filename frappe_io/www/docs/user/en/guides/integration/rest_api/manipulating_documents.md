@@ -1,8 +1,6 @@
-<!-- base_template: frappe_io/www/frappe/frappe_base.html -->
+<!-- base_template: frappe_io/www/frappe/frappe_base.html -->Base URL: https://{your frappe instance}
 
-Base URL: https://{your frappe instance}
-
-Example: https://demo.erpnext.com. In this case `GET /api/resource/{DocType}` should be read as `GET https://demo.erpnext.com/api/resource/{DocType}`
+Example: https://demo.erpnext.com
 
 # Manipulating DocTypes
 
@@ -24,21 +22,21 @@ Params (in path):
 
 Params (in query):
 
-* `fields` []
+* fields []
 
 	By default, only the 'name' field will be returned. To add more fields, you can pass the *fields* parameter. For example, fields=["name","country"]
 
-* `filters` [[(string)]]
+* filters [[(string)]]
 
 	You can filter the listing using SQL conditions by passing them in the *filters* parameter. Each condition is an array of the format, [{doctype}, {field}, {operator}, {value}]. For example, filters=[["Customer", "country", "=", "India"]]
 
-* `limit_page_length` (int)
+* limit_page_length (int)
 
 	All listings will be paginated. With this parameter you can change the page size (how many items are teturned at once). Default: 20.
 
-* `limit_start` (int)
+* limit_start (int)
 
-	To request successive pages, pass a multiple of your `limit_page_length` as `limit_start`. For example, to request the second page, pass `limit_start` as 20.
+	To request successive pages, pass a multiple of your limit_page_length as limit_start. For example, to request the second page, pass limit_start as 20.
 
 Example:
 
@@ -71,7 +69,7 @@ Params (in path):
 
 	The DocType you'd like to create. For example, 'Customer'.
 
-Content-Type: `application/json`
+Content-Type: application/json
 
 Request Body: `{"fieldname": value}`
 

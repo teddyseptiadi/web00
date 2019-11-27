@@ -133,7 +133,7 @@ collation-server = utf8mb4_unicode_ci
 default-character-set = utf8mb4
 ```
 
-Now, just restart the mysql service and you are good to go.
+Now, just restart the mysql service and you are good to good
 
 ```bash
 sudo service mysql restart
