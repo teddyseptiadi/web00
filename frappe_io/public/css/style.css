@@ -129,3 +129,63 @@ img,
 	font-weight: normal;
 	margin-top: -1px;
 }
+
+.module-anchor-statement {
+ -ms-flex-align:center;
+ align-items:center;
+ display:-ms-flexbox;
+ display:flex;
+ -ms-flex-pack:center;
+ justify-content:center;
+ padding-bottom:30px;
+ padding-top:30px
+}
+.module-anchor-statement__header-one {
+ height:calc(65vh - 57px);
+ max-height:500px;
+ min-height:400px
+}
+@media (min-width:600px) {
+ .module-anchor-statement__header-one {
+  max-height:600px;
+  min-height:450px
+ }
+}
+@media (min-width:1024px) {
+ .module-anchor-statement__header-one {
+  height:calc(65vh - 65px);
+  max-height:583px;
+  min-height:340px
+ }
+}
+.module-anchor-statement__header-one p {
+ -moz-osx-font-smoothing:grayscale;
+ -webkit-font-smoothing:antialiased;
+ color:#202124;
+ font-family:"Google Sans Display",Arial,Helvetica,sans-serif;
+ font-size:2.3125rem;
+ font-weight:400;
+ letter-spacing:-.03125rem;
+ line-height:3rem;
+ color:#000;
+ font-size:8vw;
+ line-height:1.3em;
+ margin:0 auto;
+ width:82%
+}
+
+.module-anchor-statement .blue {
+ color:#4285f4
+}
+
+.module-anchor-statement .green {
+ color:#34a853
+}
+
+.module-anchor-statement .red {
+ color:#ea4335
+}
+
+.module-anchor-statement .yellow {
+ color:#f9ab00
+}

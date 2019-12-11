@@ -7,7 +7,7 @@
 		    <div class="text-muted">
 		        <div style="line-height: 2">
 		            &copy;<span id="year"></span> PT Unitek Mitra Solusi. All rights reserved
-		            <br>Read the <a href="https://erpnext.com/terms" class="text-muted underline">terms of use</a>.
+		            <br>Read the <a href="https://umis.co.id/terms" class="text-muted underline">terms of use</a>.
 				</div>
 		    </div>
 		</div>
@@ -41,6 +41,10 @@
                 <li class="py-2">
                     <a href="https://umis.co.id/about#contact" class="text-muted">Contact</a>
                 </li>
+		<li class="py-2">
+                    <a href="https://umis.co.id/login" class="text-muted">login</a>
+                </li>
+
             </ul>
         </div>
     </div>
@@ -48,5 +52,32 @@
 	<div class='mt-4 text-muted text-center'>"The present is theirs; the future, for which I really worked, is mine." ~ Nikola Tesla
 
 	</div>
+<script>
+"use strict";
+
+!function() {
+  var t = window.driftt = window.drift = window.driftt || [];
+  if (!t.init) {
+    if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+    t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+    t.factory = function(e) {
+      return function() {
+        var n = Array.prototype.slice.call(arguments);
+        return n.unshift(e), t.push(n), t;
+      };
+    }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+      o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+      var i = document.getElementsByTagName("script")[0];
+      i.parentNode.insertBefore(o, i);
+    };
+  }
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('bn26rz7havy8');
+</script>
+
 </footer>
 <!--Javascript-->

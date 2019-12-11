@@ -1,89 +1,48 @@
-# Terms
+# Syarat dan ketentuan
+Versi 1.0
 
-Subscription Agreement.
-Version 1.01
+###Pengantar
 
-### Introduction
+Syarat dan ketentuan berikut akan dianggap telah diterima oleh Pengguna atas penggunaan situs web www.umis.co.id. Anda diminta untuk membacanya dengan cermat sebelum Anda menggunakan layanan situs ini.
+Istilah Pengguna akan merujuk pada pengguna yang menjelajahi situs (digunakan secara bergantian dengan 'Anda'). Istilah UMIS mengacu pada PT Unitek Mitra Solusi. Istilah Situs mengacu pada www.umis.co.id yang dimiliki dan dipantau oleh PT Unitek Mitra Solusi. Dengan menggunakan Situs, Anda setuju untuk mengikuti dan terikat oleh syarat dan ketentuan berikut mengenai penggunaan Situs oleh Anda. Jika Anda setuju untuk menggunakan layanan atas nama perusahaan atau organisasi Anda, Anda setuju bahwa Anda mewakili organisasi dan memiliki wewenang untuk menerima perjanjian ini atas nama organisasi Anda. UMIS dapat merevisi Ketentuan Penggunaan setiap saat tanpa pemberitahuan kepada Anda. Area-area Situs mungkin memiliki ketentuan penggunaan yang berbeda. Jika ada pertentangan antara Ketentuan Penggunaan dan ketentuan penggunaan yang diposting untuk area tertentu di Situs, maka yang terakhir harus didahulukan sehubungan dengan penggunaan Anda atas area Situs tersebut.
+Perangkat lunak untuk umis.co.id yang merupakan properti terbitan PT Unitek Mitra Solusi tersedia di bawah lisensi GNU / GPL dan lainnya sebagaimana ditentukan dalam kode sumber. Layanan yang ditawarkan oleh UMIS adalah layanan hosting dan dukungan. Perangkat lunak, apakah itu dikembangkan oleh UMIS atau oleh pihak ketiga tersedia untuk Anda di bawah Lisensi Open Source (sebagaimana ditentukan dalam kode perangkat lunak) dan tidak tercakup dalam Layanan yang ditawarkan oleh kami, namun mungkin masih tunduk pada ketentuan penggunaan tertentu ditentukan di sini.
+Layanan akan tersedia untuk Anda melalui browser internet (versi browser tertentu sebagaimana berlaku) dan Anda akan memerlukan koneksi internet untuk mengakses layanan kami.
 
-Frappe Technologies Pvt Ltd is the publisher of "ERPNext" and offers hosting and support services for the same. The software is available under the GNU/GPL licenses and others as specified in the source code. This agreement is not about the software (which is available under the General Public License) but for the hosting and support services that are provided commercially.
+###Hak untuk Menghentikan Akses
 
-### 1. Scope
+UMIS dapat menghentikan akses Pengguna kapan saja dengan alasan apa pun. Ketentuan mengenai pelepasan jaminan, keakuratan informasi, dan ganti rugi akan tetap berlaku setelah pengakhiran tersebut. UMIS dapat memonitor akses ke Situs. Dalam hal pengakhiran selama subsistensi periode berlangganan, UMIS akan mempertimbangkan pengembalian uang, jika ada atas dasar kasus per kasus asalkan Pengguna telah mematuhi semua syarat dan ketentuan yang ditentukan oleh UMIS pada saat pembelian. Jika Anda belum membeli layanan kami setelah periode yang ditentukan, maka kami memiliki hak untuk menghentikan akses. Kami akan menyimpan data Anda untuk jangka waktu 30 hari setelah penghentian akses pada berakhirnya berlangganan dengan alasan apa pun, selama waktu itu mungkin tersedia untuk Anda unduh. Setelah periode ini, kami tidak menjamin ketersediaan data Anda dan tidak bertanggung jawab jika data tersebut dapat hilang.
 
-This agreement covers the terms under which you can use the free, trial or paid services offered by us. If you are agreeing to use the services on behalf of your company or organization, you agree that you represent the organization and have the authority to accept this agreement on behalf of your organization.
+###Hak kekayaan intelektual
 
-### 2. Definitions
+Semua konten yang ada di situs ini adalah milik eksklusif UMIS. Perangkat lunak, teks, gambar, grafik, video dan audio yang digunakan di situs ini adalah milik UMIS. Tidak ada materi dari situs ini yang dapat disalin, dimodifikasi, direproduksi, diterbitkan ulang, diunggah, ditransmisikan, diposting atau didistribusikan dalam bentuk apa pun tanpa izin tertulis sebelumnya dari UMIS. Semua hak yang tidak secara tegas diberikan di sini dilindungi. Penggunaan materi yang muncul secara tidak sah di situs ini dapat melanggar hak cipta, merek dagang, dan undang-undang lain yang berlaku, dan dapat mengakibatkan hukuman pidana atau perdata. UMIS adalah merek dagang terdaftar dari PT Unitek Mitra Solusi. Merek dagang ini tidak dapat digunakan dengan cara apa pun tanpa persetujuan tertulis sebelumnya dari PT Unitek Mitra Solusi. Situs, dan semua konten, bahan, informasi, perangkat lunak, produk dan layanan yang disediakan di Situs, disediakan berdasarkan "sebagaimana adanya" dan "sebagaimana tersedia". UMIS secara tegas menyangkal semua jaminan dalam bentuk apa pun, baik tersurat maupun tersirat, termasuk, tetapi tidak terbatas pada, jaminan tersirat mengenai kelayakan untuk diperjualbelikan, kesesuaian untuk tujuan tertentu dan non-pelanggaran.
 
-Services: Hosting and support services offered by us
-You, Your: The subscriber or user of our services
-We, Us, Our: Frappe Technologies Pvt. Ltd. or services offered by Frappe Technologies Pvt Ltd
-Confidential Information: Information that is given from one party to another that is reasonably understood to be confidential.
+###Perubahan pada Situs Web atau Perjanjian
 
-### 3. Services
+UMIS dapat mengubah atau menghentikan aspek apa pun dari situs webnya kapan saja, termasuk konten atau fiturnya. UMIS berhak untuk mengubah syarat dan ketentuan yang berlaku untuk penggunaan Situs. Perubahan tersebut akan berlaku segera setelah pemberitahuan, yang akan ditempatkan di Situs. Kami berhak untuk memodifikasi, menangguhkan, atau menghentikan semua atau sebagian dari Situs ini kapan saja, dengan atau tanpa pemberitahuan. Kecuali dinyatakan sebaliknya, semua fitur baru pada Situs saat ini akan tunduk pada Ketentuan Penggunaan ini. Situs ini saat ini dapat diakses oleh pengguna tanpa biaya, namun, kami berhak membebankan biaya kepada pengguna untuk akses ke atau penggunaan setiap bagian dari Situs di masa depan. Ketentuan Penggunaan ini dapat dimodifikasi oleh UMIS kapan saja dengan atau tanpa pemberitahuan sebelumnya. Setiap perubahan tersebut akan diposting di Situs. Jika Anda terus menggunakan Situs akan dianggap menerima segala modifikasi.
 
-The Services offered by us are hosting and support services. The software, whether it is developed by us or by third parties is available to you under Open Source Licenses (as specified in the software code) and is not covered in the Services offered by us.
+###Batasan Kerusakan:
 
-The services will be available to you via the internet browser (specific browsers versions as applicable) and you will need an internet connection to access our services.
+UMIS dan direktur, pejabat, dan karyawannya tidak bertanggung jawab atas segala kerusakan langsung, tidak langsung, khusus, insidental, patut dicontoh, atau konsekuensial (termasuk kerusakan untuk kehilangan
 
-### 4. Service Levels
+###Ganti rugi
 
-We host Your data at international data centers and the service levels offered by them will be applicable to You. We will reasonably put all effort to ensure that the servers managed by us are up and running 24x7. If You wish to host your application at your own servers or servers managed by you, then You are free to do it.
+Anda setuju untuk mengganti rugi, membela, dan menjaga UMIS tidak berbahaya dari dan terhadap semua kerugian, pengeluaran, kerusakan dan biaya, termasuk biaya pengacara yang wajar, yang timbul karena atau terkait dengan penyalahgunaan oleh Pengguna atas konten dan layanan yang disediakan di Situs. Informasi yang terkandung dalam Situs ini telah diperoleh dari sumber yang diyakini dapat diandalkan. UMIS menyangkal semua jaminan tentang keakuratan, kelengkapan atau kecukupan informasi tersebut.
 
-If You choose to do it, then there is no obligation on Our part to support Your servers and You will not have to pay for our Services. If You would want Our Services to support and maintain Your servers then they will be charged.
+###Penafian Jaminan
 
-### 5. Confidentiality and Privacy
+UMIS tidak memberikan jaminan bahwa: (a) Situs akan memenuhi persyaratan Anda; (B) Situs akan tersedia tanpa gangguan, tepat waktu, aman, atau bebas kesalahan; (c) hasil yang dapat diperoleh dari penggunaan Situs atau layanan apa pun yang ditawarkan melalui Situs akan akurat atau dapat diandalkan. UMIS tidak memberikan jaminan, tersurat maupun tersirat, termasuk, tanpa batasan, yang dapat diperjualbelikan dan kesesuaian untuk tujuan tertentu, sehubungan dengan informasi, data, pernyataan atau produk apa pun yang tersedia di Situs.
 
-Your information / data is owned by You and is a part of your database / files and is treated as Confidential Information. We will ensure that Your Confidential Information is managed with the same level of security as Our Confidential Information. We will take all reasonable effort to ensure that any Confidential Information is managed in a secure manner by using rights management and password encryption. We may or may not publish our security measures to maintain their secrecy.
+###Privasi Pengguna
 
-### 6. Purchasing
+Anda bertanggung jawab untuk mematuhi hukum yurisdiksi tempat Anda mengakses situs ini dan Anda setuju bahwa Anda tidak akan mengakses atau menggunakan informasi di situs ini yang melanggar undang-undang tersebut. Kecuali jika dinyatakan sebaliknya di sini, informasi apa pun yang Anda ajukan melalui situs ini akan dianggap tidak rahasia dan tidak berpemilik. Anda menyatakan bahwa Anda memiliki hak yang sah untuk mengirimkan informasi tersebut dan setuju bahwa Anda tidak akan mengirimkan informasi apa pun kecuali Anda berhak secara hukum untuk melakukannya. Karena sifat Internet yang terbuka, kami sarankan Anda tidak mengirimkan informasi yang Anda anggap rahasia.
 
-Our services can be purchased as specified on our website, via online money transfers or using third party services such as PayPal or in some cases, checks.
+Hak pengguna untuk privasi sangat penting untuk UMIS. Setiap informasi yang diberikan oleh Pengguna tidak akan dibagikan kepada pihak ketiga mana pun kecuali diidentifikasi seperti di tempat lain. UMIS berhak menggunakan informasi tersebut untuk memberikan pengalaman daring yang lebih personal kepada Pengguna. Informasi online yang dikumpulkan dan informasi tertentu lainnya tentang Anda tunduk pada Kebijakan Privasi kami. Untuk informasi lebih lanjut, silakan lihat kebijakan privasi lengkap kami.
 
-If you have not Purchased Our Services, then we have a right to terminate them. We will hold your data for a period of 30 days till which you can download your data. After that your data could be lost.
+Kami meng-host data Anda di pusat data internasional dan tingkat layanan yang ditawarkan oleh mereka akan berlaku untuk Anda. Kami akan berupaya semaksimal mungkin untuk memastikan bahwa server yang dikelola oleh kami aktif dan beroperasi 24x7.
 
-### 7. Rate Inflation
+Situs ini dapat menyediakan tautan ke situs web dan akses ke konten, produk, dan layanan dari pihak ketiga, termasuk pengguna, pengiklan, afiliasi, dan sponsor Situs. Anda setuju bahwa UMIS tidak bertanggung jawab atas ketersediaan, dan konten yang disediakan pada, situs web pihak ketiga. Pengguna diminta untuk membaca dengan teliti kebijakan yang diposting oleh situs web lain tentang privasi dan topik lain sebelum digunakan. UMIS tidak bertanggung jawab atas konten pihak ketiga yang dapat diakses melalui Situs, termasuk pendapat, saran, pernyataan dan iklan, dan Pengguna akan menanggung semua risiko yang terkait dengan penggunaan konten tersebut. UMIS tidak bertanggung jawab atas kehilangan atau kerusakan dalam bentuk apa pun yang mungkin ditimbulkan Pengguna dari berurusan dengan pihak ketiga mana pun. Ketentuan Penggunaan ini merupakan seluruh perjanjian antara Anda dan UMIS sehubungan dengan Situs. UMIS mengelola situs ini di India dengan beberapa informasi yang disimpan di server yang berlokasi di luar India dan Anda setuju dengan ketentuan penggunaan ini. Hal tersebut di atas tunduk pada hukum Republik India dan pengadilan di Mumbai, India akan memiliki yurisdiksi eksklusif untuk setiap sengketa yang mungkin timbul karena penggunaan situs ini.
 
-We reserve the right to increase our price or change the pricing model as and when we see fit. Incase if we have a price rise and you are unhappy, we will allow you to use the service for a period of three months under the old rate. Please note that ERPNext is a Free and Open Source software and you are free to purchase hosting and support services from any other vendor.
-
-### 8. Backups
-
-Even though we keep multiple and redundant backups, We do not guarantee Your backup and You are also advised to download Your own copy of the backup from time to time from within your ERPNext account by going to Tools -> Download Backup (or as specified).
-
-### 9. Warranty
-
-We do not provide any warranty for our Services for fitness or purpose. You are fully responsible for the data your enter and the accuracy of the data. We are not responsible for any Loss of business or any other kind that may arise due to the use of our Services.
-
-### 10. Liability
-
-Our maximum liability is limited to the amount that you have paid us for our Services for the past one year.
-
-### 11. Indemnity
-
-Both You and We agree to indemnify each other against any claims by any third party. We agree to indemnify you in case of any claim by a third party that by using our services, you are infringing their intellectual property rights. In turn you will indemnify us against any third party that claims that by offering you services or hosting your data, we are infringing their intellectual property rights.
-
-### 12. Termination
-
-The services are automatically terminated if the subscription expires. To continue the service, you must buy subscription. We have a right to terminate the services if we believe that you are abusing our Services.
-
-### 13. Refund
-
-Upon termination, we will refund you any unused credits by check / PayPal or any such mechanism within 15 days.
-
-### 14. Data
-
-You can ask for your data for a period of 30 days after the termination. You will get a database dump of your data by raising a support ticket
-
-### 15. Agreement Modification
-
-This agreement is subject to change and we will update you via email incase we make any changes.
-
-Company: Frappe Technologies Pvt Ltd
-
-Registered Address: D/324 Neelkanth Business Park, Vidyavihar West, Mumbai 400086
-
-Jurisdiction: Mumbai, India
-
-Dated: 20th October 2010
-
+#ANDA MENGAKUI BAHWA ANDA TELAH MEMBACA PERSYARATAN PENGGUNAAN INI, MEMAHAMI, DAN MENYETUJUI UNTUK TERIKAT OLEHNYA. ANDA LEBIH LANJUT MENYETUJUI BAHWA ITU ADALAH PERNYATAAN LENGKAP DAN EKSKLUSIF DARI PERJANJIAN ANTARA ANDA DAN UMIS YANG MENYATAKAN SETIAP PERJANJIAN YANG DIUSULKAN ATAU SEBELUMNYA, LISAN ATAU TERTULIS, DAN KOMUNIKASI LAINNYA ANTARA ANDA DAN UMIS YANG BERKAITAN DENGAN ANDA. Jika Anda memiliki pertanyaan atau komentar tentang Ketentuan Penggunaan kami, Anda dapat menghubungi kami di support@umis.co.id.
 ---
 
-<p class="text-center"><a class="btn btn-default" href="/contact">Contact Us</a></p>
+<p class="text-center"><a class="btn btn-default" href="/about#contact">Contact Us</a></p>
